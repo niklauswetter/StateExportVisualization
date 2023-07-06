@@ -1,0 +1,52 @@
+state,resource,id
+ALABAMA,Transportation Equipment,1
+ALASKA,Fish and Marine Products,2
+ARIZONA,Computers and Electronics,4
+ARKANSAS,Transportation Equipment,5
+CALIFORNIA,Computers and Electronics,6
+COLORADO,Computers and Electronics,8
+CONNECTICUT,Transportation Equipment,9
+DELAWARE,Chemicals,10
+DISTRICT OF COLUMBIA,Transportation Equipment,11
+FLORIDA,Computers and Electronics,12
+GEORGIA,Transportation Equipment,13
+HAWAII,Petroleum and Coal,15
+IDAHO,Computers and Electronics,16
+ILLINOIS,Machinery,17
+INDIANA,Transportation Equipment,18
+IOWA,Machinery,19
+KANSAS,Transportation Equipment,20
+KENTUCKY,Transportation Equipment,21
+LOUISIANA,Petroleum and Coal,22
+MAINE,Fish and Marine Products,23
+MARYLAND,Transportation Equipment,24
+MASSACHUSETTS,Computers and Electronics,25
+MICHIGAN,Transportation Equipment,26
+MINNESOTA,Computers and Electronics,27
+MISSISSIPPI,Petroleum and Coal,28
+MISSOURI,Transportation Equipment,29
+MONTANA,Chemicals,30
+NEBRASKA,Food Manufacturing,31
+NEVADA,Metal Manufacturing,32
+NEW HAMPSHIRE,Computers and Electronics,33
+NEW JERSEY,Chemicals,34
+NEW MEXICO,Computers and Electronics,35
+NEW YORK,Manufactured Commodities,36
+NORTH CAROLINA,Chemicals,37
+NORTH DAKOTA,Petroleum and Coal,38
+OHIO,Transportation Equipment,39
+OKLAHOMA,Machinery,40
+OREGON,Machinery,41
+PENNSYLVANIA,Chemicals,42
+RHODE ISLAND,Waste and Scrap,44
+SOUTH CAROLINA,Transportation Equipment,45
+SOUTH DAKOTA,Food Manufacturing,46
+TENNESSEE,Transportation Equipment,47
+TEXAS,Petroleum and Coal,48
+UTAH,Metal Manufacturing,49
+VERMONT,Computers and Electronics,50
+VIRGINIA,Chemicals,51
+WASHINGTON,Transportation Equipment,53
+WEST VIRGINIA,Minerals and Ores,54
+WISCONSIN,Machinery,55
+WYOMING,Chemicals,56
